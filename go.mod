@@ -1,4 +1,4 @@
-module github.com/quiyetbrul/vorto_beeng_challenge
+module github.com/quiyetbrul/go_crud
 
 go 1.20
 

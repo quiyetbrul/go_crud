@@ -8,7 +8,7 @@ import (
 	"strconv"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/quiyetbrul/vorto_beeng_challenge/internal/data"
+	"github.com/quiyetbrul/go_crud/internal/data"
 )
 
 type envelope map[string]interface{}

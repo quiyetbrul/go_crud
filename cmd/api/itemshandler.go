@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/quiyetbrul/vorto_beeng_challenge/internal/data"
-	"github.com/quiyetbrul/vorto_beeng_challenge/internal/validator"
+	"github.com/quiyetbrul/go_crud/internal/data"
+	"github.com/quiyetbrul/go_crud/internal/validator"
 )
 
 // createItemHandler handles "POST /api/v1/items" endpoint.

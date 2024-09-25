@@ -11,7 +11,7 @@ import (
 	"time"
 
 	_ "github.com/lib/pq"
-	"github.com/quiyetbrul/vorto_beeng_challenge/internal/data"
+	"github.com/quiyetbrul/go_crud/internal/data"
 )
 
 const version = "1.0.0"
